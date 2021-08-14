@@ -1,2 +1,2 @@
 # pyarcade-learning
-This is
+This is to learn how to use arcade
